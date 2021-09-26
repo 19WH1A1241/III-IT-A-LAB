@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>
+		§₥@Ř₭ʎ🤤🤤!
+	</title>
+</head>
+<body background="6.jpeg" link="#ec4bb1" alink="#ffffff" vlink="#ec4bb1">
+	<h3 align="center">
+		<font face="Lato" style="color: beige;" size="6">§₥@Ř₭ʎ🤤🤤!!</font>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<font face="cinzel" size="4">
+			<a href="Project.html" class="Q">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="Menu.html" class="Q">MENU</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="Blog.html" class="Q">BLOG</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="Reviews.html" class="Q">REVIEWS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="Aboutpage.html" class="Q">ABOUT</a>
+		</font>
+	</h3>
+	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+	<h1 align="center">
+		<font face="Lato" style="color: black;" size="7">
+			SMARKY Restaurant
+		</font>
+	</h1>
+	<h3 align="center">
+		<font face="Lato" style="color:rgba(8, 11, 179, 0.966)" size="5">
+			Good Friends
+			Good Food
+			Good Times
+		</font>
+	</h3>
+	<br />
+	<style>
+		.Q:hover{
+			transform: translateY(-10px);
+			transition: all ease 0.1s;
+		}
+	</style>
+</body>
+</html>
